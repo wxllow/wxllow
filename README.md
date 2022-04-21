@@ -15,4 +15,4 @@ I code mainly in Python, Go, and JS (node)!
 
 ## Metrics
 
-![Metrics](/github-metrics.svg?test)
+![Metrics](/github-metrics.svg)

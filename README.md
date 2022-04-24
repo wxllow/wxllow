@@ -3,7 +3,12 @@
 I code mainly in Python, Go, and JS (node)!
 
 ### Currently working on
-- A package manager for macOS and Linux (and maybeee windows?) which also has support for binary packages and macOS apps :)!
+
+- [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
+
+- A CLI game written in Go
+
+- A simple package manager for macOS and Linux
 
 - Learning C++
 

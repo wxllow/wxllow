@@ -6,9 +6,7 @@ I code mainly in Python, Go, and JS (node)!
 
 - [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
 
-- A website for my friend's classic MC server software
-
-- A CLI game written in Go
+- A multi-purpose discord bot
 
 - A simple package manager for macOS and Linux
 

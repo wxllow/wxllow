@@ -14,7 +14,7 @@ I code mainly in Python, Go, and JS (node)!
 
 ## Socials 🐦
 
-- <a type="button" rel="me" href="https://mastodon.social/@wxllow">Mastodon</a>
+- [Mastodon](https://mastodon.social/@wxllow)
       
 - [Matrix](https://matrix.to/#/@wxllow:matrix.wxllow.dev)
 

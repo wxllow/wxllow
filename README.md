@@ -1,6 +1,8 @@
 ## Introduction 👋
 
-I code mainly in Python, Go, and JS (node)!
+Teenage girl with an interest for programming, Linux, & security.
+
+I code mainly in Python, Go, and JavaScript and also am learning C and C++ :)
 
 ### Currently working on
 

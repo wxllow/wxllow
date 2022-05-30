@@ -6,13 +6,13 @@ I code mainly in Python, Go, and JavaScript and also am learning C and C++ :)
 
 ### Currently working on
 
-- [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
+- [Twillow](https://github.com/wxllow/twillow), a modular SMS bot using the Twilio API
 
-- A multi-purpose discord bot
+- [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
 
 - A simple package manager for macOS and Linux
 
-- Learning C++
+- Improving C++ skills
 
 ## Socials 🐦
 

@@ -14,16 +14,9 @@ I code mainly in Python, Go, and JavaScript and also am learning C and C++ :)
 
 - Improving C++ skills
 
-## Socials 🐦
+### Learn more about me
 
-- [Mastodon](https://mastodon.social/@wxllow)
-      
-- [Matrix](https://matrix.to/#/@wxllow:matrix.wxllow.dev)
-
-- [Discord Server](https://discord.gg/WDr7vzenTb)
-
-- [Twitter](https://twitter.com/suswilloo)
-
+If you wanna learn more about me, [check out my website!](https://wxllow.dev)
 
 ## Metrics
 

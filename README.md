@@ -10,6 +10,8 @@ I code mainly in Python, Go, and JavaScript and also am learning C and C++ :)
 
 - [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
 
+- [Munchi](https://github.com/wxllow/munchi), an open-source, multi-functional Discord bot written in Python!
+
 - A simple package manager for macOS and Linux
 
 - Improving C++ skills

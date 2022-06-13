@@ -14,8 +14,6 @@ I code mainly in Python, Go, and JavaScript and also am learning C and C++ :)
 
 - A simple package manager for macOS and Linux
 
-- Improving C++ skills
-
 ### Learn more about me
 
 If you wanna learn more about me, [check out my website!](https://wxllow.dev)

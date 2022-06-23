@@ -14,8 +14,6 @@ I code mainly in Python, Rust, JavaScript, & TypeScript :)
 
 - A chat protocol, server, and client 😳
 
-- A simple package manager for macOS and Linux
-
 ### Learn more about me
 
 If you wanna learn more about me, [check out my website!](https://wxllow.dev)

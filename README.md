@@ -1,18 +1,14 @@
 ## Introduction 👋
 
-Teenage girl with an interest for programming, Linux, & security.
+Girl who likes programming, Linux, & security.
 
-I code mainly in Python, Rust, JavaScript, & TypeScript :)
+I like to code in Python, Rust, & Typescript :)
 
 ### Currently working on
 
-- [AppleMusicRP](https://github.com/wxllow/applemusicrp), a menu bar app written in Python for macOS & Windows that displays Discord Rich Presence for Apple Music/iTunes!
+- [AppleMusicRP](https://github.com/wxllow/applemusicrp) - Discord Rich Presence for Apple Music w/ Album Artwork!
 
-- [Munchi](https://github.com/wxllow/munchi), an open-source, multi-functional Discord bot written in Python!
-
-- [Twillow](https://github.com/wxllow/twillow), a modular SMS bot using the Twilio API, made with Python + Lua ❤️
-
-- A chat protocol, server, and client 😳
+- [Munchi](https://github.com/wxllow/munchi) - An open-source, multi-functional Discord bot written in Python!
 
 ### Learn more about me
 

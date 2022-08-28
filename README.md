@@ -1,6 +1,6 @@
 ## Introduction 👋
 
-Girl who likes programming, Linux, & security.
+Girl who likes music, video games, programming, Linux, & cyber security.
 
 I like to code in Python, Rust, & Typescript :)
 
